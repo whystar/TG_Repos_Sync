@@ -1,0 +1,3 @@
+L1: today is a good day
+L2: tomorrow will be another good day
+L3: how about the day after tomorrow?
