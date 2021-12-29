@@ -2,8 +2,8 @@
 name: Bug Report
 about: Is something not working as expected?
 title: ''
-labels: 'new issue'
-assignees: 'whystar'
+labels: new issue
+assignees: whystar
 
 ---
 
